@@ -11,7 +11,7 @@
   /* выше установили ограничение по максимальной ширине */
   /* выше для экранов больше 1600px отцентрировали весь контент */
   margin: 0 auto;
-  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Helvetica Neue', 'Arial' , sans-serif;
 }
 
 
