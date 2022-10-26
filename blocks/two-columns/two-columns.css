@@ -1,0 +1,7 @@
+.two-columns {
+  width: 80%;
+  min-height: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
